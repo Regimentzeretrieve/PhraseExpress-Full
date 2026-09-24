@@ -1,0 +1,23 @@
+{
+  "repo": "phraseexpress-full",
+  "product": "PhraseExpress Full",
+  "kind": "productivity",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "office-suite",
+  "topics": [
+    "phraseexpress",
+    "phraseexpress-windows",
+    "office-suite-desktop",
+    "how-to-install-phraseexpress",
+    "phraseexpress-desktop-package",
+    "phraseexpress-workspace",
+    "phraseexpress-pro-tools",
+    "phraseexpress-suite",
+    "zentool-phraseexpress",
+    "phraseexpress-tool-9"
+  ],
+  "site": "zentool.art"
+}
